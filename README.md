@@ -59,12 +59,12 @@ La matriz de confusión muestra el desempeño del modelo al comparar las predicc
 ### 2. **Importancia de las Características**
 Este gráfico destaca las características más influyentes en el modelo de Árbol de Decisión.
 
-![Importancia de las Características](../visuales/caracteristicas.png)
+![Importancia de las Características](https://github.com/daniel-alegria-z/Calidad-de-Vinos/blob/main/visuales/caracteristicas.png)
 
 ### 3. **Distribución de la Calidad del Vino**
 La distribución de la variable `quality` permite observar la cantidad de ejemplos en cada clase.
 
-![Distribución de la Calidad del Vino](../visuales/distribucion_calidad.png)
+![Distribución de la Calidad del Vino](https://github.com/daniel-alegria-z/Calidad-de-Vinos/blob/main/visuales/distribucion_calidad.png)
 
 ---
 
