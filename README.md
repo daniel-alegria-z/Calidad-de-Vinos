@@ -111,5 +111,5 @@ Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo `LICENS
 ---
 
 ## Autor
-Creado por [Tu Nombre] como un ejercicio educativo en minería de datos. Si tienes preguntas o sugerencias, no dudes en contactarme.
+Creado por Daniel Esteban Alegría Zamora como un ejercicio educativo en minería de datos. Si tienes preguntas o sugerencias, no dudes en contactarme.
 
