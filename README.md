@@ -54,17 +54,17 @@ Para ejecutar el código, asegúrate de instalar las dependencias especificadas 
 ### 1. **Matriz de Confusión**
 La matriz de confusión muestra el desempeño del modelo al comparar las predicciones con los valores reales de calidad del vino.
 
-![Matriz de Confusión](../visuals/matriz_confusion.png)
+![Matriz de Confusión](https://github.com/daniel-alegria-z/Calidad-de-Vinos/blob/main/visuales/matriz_confusion.png)
 
 ### 2. **Importancia de las Características**
 Este gráfico destaca las características más influyentes en el modelo de Árbol de Decisión.
 
-![Importancia de las Características](../visuals/caracteristicas.png)
+![Importancia de las Características](../visuales/caracteristicas.png)
 
 ### 3. **Distribución de la Calidad del Vino**
 La distribución de la variable `quality` permite observar la cantidad de ejemplos en cada clase.
 
-![Distribución de la Calidad del Vino](../visuals/distribucion_calidad.png)
+![Distribución de la Calidad del Vino](../visuales/distribucion_calidad.png)
 
 ---
 
